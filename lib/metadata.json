@@ -1,0 +1,388 @@
+{
+  "vaultName": "Desarrollo Web en Entorno Cliente",
+  "lastExport": 1732622154676,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "0- Introduccion/Arquitecturas y tecnologías  - programación Web en cliente.md",
+    "1- Sintaxis/Sintaxis del lenguaje.md",
+    "2- Objetos Predefinidos/Objetos predifinidos.md",
+    "3- Eventos/Eventos.md",
+    "4- DOM/DOM.md",
+    "5- Formularios/Formularios.md",
+    "6- API-REST/API REST.md",
+    "7- Comunicacion Asincrona/img/classic-web-app-communication-model.jpg",
+    "7- Comunicacion Asincrona/Comunicación Asincrona.md",
+    "pdf/API REST.pdf",
+    "pdf/Arquitecturas y tecnologías  - programación Web en cliente.pdf",
+    "pdf/DOM.pdf",
+    "pdf/Eventos.pdf",
+    "pdf/Formularios.pdf",
+    "pdf/JS CheatSheet.pdf",
+    "pdf/Objetos predifinidos.pdf",
+    "pdf/Sintaxis del lenguaje.pdf",
+    "index.md",
+    "JS CheatSheet.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "7-comunicacion-asincrona/img/classic-web-app-communication-model.jpg"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "0- Introduccion/Arquitecturas y tecnologías  - programación Web en cliente.md": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 1335,
+      "exportedPath": "0-introduccion/arquitecturas-y-tecnologías-programación-web-en-cliente.html",
+      "dependencies": []
+    },
+    "1- Sintaxis/Sintaxis del lenguaje.md": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 11485,
+      "exportedPath": "1-sintaxis/sintaxis-del-lenguaje.html",
+      "dependencies": []
+    },
+    "2- Objetos Predefinidos/Objetos predifinidos.md": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 19332,
+      "exportedPath": "2-objetos-predefinidos/objetos-predifinidos.html",
+      "dependencies": []
+    },
+    "3- Eventos/Eventos.md": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 11853,
+      "exportedPath": "3-eventos/eventos.html",
+      "dependencies": []
+    },
+    "4- DOM/DOM.md": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 13530,
+      "exportedPath": "4-dom/dom.html",
+      "dependencies": []
+    },
+    "5- Formularios/Formularios.md": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 13685,
+      "exportedPath": "5-formularios/formularios.html",
+      "dependencies": []
+    },
+    "6- API-REST/API REST.md": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 5315,
+      "exportedPath": "6-api-rest/api-rest.html",
+      "dependencies": []
+    },
+    "7- Comunicacion Asincrona/img/classic-web-app-communication-model.jpg": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 72938,
+      "exportedPath": "7-comunicacion-asincrona/img/classic-web-app-communication-model.jpg",
+      "dependencies": []
+    },
+    "7- Comunicacion Asincrona/Comunicación Asincrona.md": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 22134,
+      "exportedPath": "7-comunicacion-asincrona/comunicación-asincrona.html",
+      "dependencies": [
+        "7-comunicacion-asincrona/img/classic-web-app-communication-model.jpg"
+      ]
+    },
+    "pdf/API REST.pdf": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 117423,
+      "exportedPath": "pdf/api-rest.pdf",
+      "dependencies": []
+    },
+    "pdf/Arquitecturas y tecnologías  - programación Web en cliente.pdf": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 53782,
+      "exportedPath": "pdf/arquitecturas-y-tecnologías-programación-web-en-cliente.pdf",
+      "dependencies": []
+    },
+    "pdf/DOM.pdf": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 170121,
+      "exportedPath": "pdf/dom.pdf",
+      "dependencies": []
+    },
+    "pdf/Eventos.pdf": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 170103,
+      "exportedPath": "pdf/eventos.pdf",
+      "dependencies": []
+    },
+    "pdf/Formularios.pdf": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 174538,
+      "exportedPath": "pdf/formularios.pdf",
+      "dependencies": []
+    },
+    "pdf/JS CheatSheet.pdf": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 247053,
+      "exportedPath": "pdf/js-cheatsheet.pdf",
+      "dependencies": []
+    },
+    "pdf/Objetos predifinidos.pdf": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 167711,
+      "exportedPath": "pdf/objetos-predifinidos.pdf",
+      "dependencies": []
+    },
+    "pdf/Sintaxis del lenguaje.pdf": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 210996,
+      "exportedPath": "pdf/sintaxis-del-lenguaje.pdf",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 833,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "JS CheatSheet.md": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 41344,
+      "exportedPath": "js-cheatsheet.html",
+      "dependencies": []
+    },
+    "7-comunicacion-asincrona/img/classic-web-app-communication-model.jpg": {
+      "modifiedTime": 1732615986059,
+      "sourceSize": 72938,
+      "exportedPath": "7-comunicacion-asincrona/img/classic-web-app-communication-model.jpg",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 13798,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 997,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 131118,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 23119,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1732622154676,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
